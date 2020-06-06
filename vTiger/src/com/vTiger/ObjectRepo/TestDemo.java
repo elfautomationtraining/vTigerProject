@@ -17,5 +17,7 @@ public class TestDemo extends Base
 
 		System.out.println("This is user 1 -> Modification 1");
 		
+		System.out.println("*******************************************");
+		
 	}
 }
